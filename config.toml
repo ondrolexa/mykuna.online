@@ -18,7 +18,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = "Mykuní střípky ze života"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Co?"
+  navbarTitle          = "Ahoj"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
